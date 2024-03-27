@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@octokit/auth-token": "^5.0.1",
+    "@octokit/rest": "^20.0.2",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^6.0.0",
+    "inquirer": "^9.2.16",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8",
+    "simple-git": "^3.23.0",
+    "touch": "^3.1.0"
+  },
+  "name": "ginit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "CLI"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "bin": {
+    "ginit": "./index.js"
+  }
+}
