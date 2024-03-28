@@ -13,7 +13,7 @@
     "touch": "^3.1.0"
   },
   "name": "ginit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
     "Git",
     "CLI"
   ],
-  "author": "yo",
+  "author": "10170825",
   "license": "ISC",
   "description": "",
   "type": "module",
