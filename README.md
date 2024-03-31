@@ -1,4 +1,5 @@
 # ginit
+[![release](https://img.shields.io/github/release/10170825/ginit.svg)](https://github.com/10170825/ginit/releases)
 ## requisitos
 [node.js](https://nodejs.org/en/download) v20.11.0 o superior
 ## pasos para usar
